@@ -3,7 +3,10 @@
 )
 
 ***
-* 方法介绍
+* 方法介绍</br>    
+* GPATool</br>  绩点计算</br>  
 * MethodBinarySeacher</br>  二分搜索法:前提--数组必须是有序的</br>  
-* MethodBubbleSort</br>  冒泡排序:依次找到最大数值放在数组最后一位。循环一次比较少一次</br>  
+* MethodBubbleSort</br>  冒泡排序:依次找到最大数值放在数组最后一位。循环一次比较少一次</br>   
+* MethodForeach</br>  增强for循环</br>   
+* MethodRecursion</br>  函数递归</br>    
 * MethodSelectionSort</br>  选择排序:依次选择比较，比较位比其他位置上的数值大，则交换。这样比较位将会留下最小值</br>  
