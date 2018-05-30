@@ -3,13 +3,14 @@
 */
 import java.util.*;
 public class GPATool{
+
 	public static void show(){
 		System.out.println("-------绩点计算-------");
 	}
 	
 	public static void main(String[] args){
-		test t = new test();
-		test.show();
+		GPATool t = new GPATool();
+		t.show();
 		
 		while(true){
 		
