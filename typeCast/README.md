@@ -4,5 +4,14 @@
 
 ---
 
-* 类型转换
-* instanceof
+* *TypeCast.java*</br>大转小:典型例子  
+
+* *instanceofdemo.java*</br>instanceof
+
+---
+
+**测试方法**  
+下载某个文件代码   
+如:*ArrayCopy.java*     
+`javac ArrayCopy.java `     
+`java ArrayCopy`

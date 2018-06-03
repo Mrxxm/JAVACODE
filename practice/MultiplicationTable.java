@@ -1,4 +1,4 @@
-
+// 乘法表
 public class MultiplicationTable {
 	public static void main(String[] args){
 		for(int line = 1; line <= 9; line++){
