@@ -4,4 +4,12 @@
 
 ---
 
-* 模板方法设计模式
+* *TemplateMethod.java*</br>模板方法设计模式  
+
+---
+
+**测试方法**  
+下载某个文件代码   
+如:*ArrayCopy.java*     
+`javac ArrayCopy.java `     
+`java ArrayCopy`

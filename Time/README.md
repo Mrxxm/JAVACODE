@@ -4,4 +4,12 @@
 
 ---
 
-* 时间
+* *Time.java*</br>时间  
+
+---
+
+**测试方法**  
+下载某个文件代码   
+如:*ArrayCopy.java*     
+`javac ArrayCopy.java `     
+`java ArrayCopy`
