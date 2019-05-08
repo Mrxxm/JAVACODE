@@ -6,7 +6,7 @@
 <title>配置文件</title>
 </head>
 <body>
-	<%! public static final String API_TOKEN = "rguha0wNPZUYOSI4h7J6usgpN9DWSoxZeo11x9yiWoLDuHY9UTtbcQLq9rZd0zeB";
+	<%! public static final String API_TOKEN = "";
 		public static final String BASE_URL  = "http://pay.test";
 	%>
 </body>
