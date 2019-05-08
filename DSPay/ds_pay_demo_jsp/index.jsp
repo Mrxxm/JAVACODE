@@ -10,7 +10,7 @@
 	<div style="text-align:center">
 	  <h2>下单</h2>
 	</div>
-	<form name="form1" action="pay.jsp" method="post">
+	<form name="form1" action="order.jsp" method="post">
   		<table width="445" border="0" align="center" cellpadding="0" cellspacing="0" style="border:#99CC00 solid 2px">
     		<tr>
       		<td  colspan="2" align="center" bordercolor="#00CCFF">
